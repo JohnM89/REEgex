@@ -1,7 +1,7 @@
 # Regex Simplified: "Hello World"
 
 ## Overview
-This gist provides a concise, hopefully easy-to-understand guide regex through the example phrase "Hello World".
+This gist provides a concise, and hopefully, easy-to-understand guide regex through the example phrase "Hello World".
 
 ## Features
 - Basic regex syntax and components
